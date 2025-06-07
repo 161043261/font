@@ -1,0 +1,90 @@
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Tokyo-Regular.woff2') format('woff2'), url('TTF/Tokyo-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Tokyo-Italic.woff2') format('woff2'), url('TTF/Tokyo-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Tokyo-Bold.woff2') format('woff2'), url('TTF/Tokyo-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Tokyo-BoldItalic.woff2') format('woff2'), url('TTF/Tokyo-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Tokyo-Light.woff2') format('woff2'), url('TTF/Tokyo-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Tokyo-LightItalic.woff2') format('woff2'), url('TTF/Tokyo-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Tokyo-Medium.woff2') format('woff2'), url('TTF/Tokyo-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Tokyo-MediumItalic.woff2') format('woff2'), url('TTF/Tokyo-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Tokyo-SemiBold.woff2') format('woff2'), url('TTF/Tokyo-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Tokyo Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Tokyo-SemiBoldItalic.woff2') format('woff2'), url('TTF/Tokyo-SemiBoldItalic.ttf') format('truetype');
+}
