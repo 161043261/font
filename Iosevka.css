@@ -1,0 +1,90 @@
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Iosevka-Regular.woff2') format('woff2'), url('TTF/Iosevka-Regular.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 400;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Iosevka-Italic.woff2') format('woff2'), url('TTF/Iosevka-Italic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Iosevka-Bold.woff2') format('woff2'), url('TTF/Iosevka-Bold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 700;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Iosevka-BoldItalic.woff2') format('woff2'), url('TTF/Iosevka-BoldItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Iosevka-Light.woff2') format('woff2'), url('TTF/Iosevka-Light.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 300;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Iosevka-LightItalic.woff2') format('woff2'), url('TTF/Iosevka-LightItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Iosevka-Medium.woff2') format('woff2'), url('TTF/Iosevka-Medium.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 500;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Iosevka-MediumItalic.woff2') format('woff2'), url('TTF/Iosevka-MediumItalic.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: normal;
+	src: url('WOFF2/Iosevka-SemiBold.woff2') format('woff2'), url('TTF/Iosevka-SemiBold.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Iosevka Web';
+	font-display: swap;
+	font-weight: 600;
+	font-stretch: normal;
+	font-style: italic;
+	src: url('WOFF2/Iosevka-SemiBoldItalic.woff2') format('woff2'), url('TTF/Iosevka-SemiBoldItalic.ttf') format('truetype');
+}
